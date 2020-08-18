@@ -1,3 +1,0 @@
-systemctr disable --now firewalld 
-systemctr disable --now selinux
-yum install nginx -y 
