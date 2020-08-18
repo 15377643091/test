@@ -1,1 +1,2 @@
+systemctr disable --now firewalld 
 yum install nginx -y 
